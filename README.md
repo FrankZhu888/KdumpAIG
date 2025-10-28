@@ -55,6 +55,7 @@ DeepSeek R1:
 The script generates an HTML report (kdump_ai_report.html) containing detailed analysis results.
 
 Azure OpenAI:
+<img width="1840" height="1103" alt="截屏2025-10-28 13 31 53" src="https://github.com/user-attachments/assets/46d87af5-e60b-4d20-8120-ca9790547568" />
 
 
 DeepSeek R1:

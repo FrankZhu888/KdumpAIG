@@ -1,20 +1,19 @@
 # KdumpAIG - Universal Linux Kernel Crash Analyzer with AI Integration
-It's a new generation for AI agent for Linux kdump analysis, "G" stands for 'General' as it works across most Linux distributions and kernel versions.
+KdumpAIG is a next‑generation AI agent for Linux kdump analysis. The "G" stands for General – it works across a wide range of Linux distributions and kernel versions.
 
 ## Overview
 
-KdumpAIG is a Python-based tool designed to automate the analysis of Linux kernel crash dumps (kdump vmcore files) on Linux systems. By leveraging AI models (currently supporting Azure OpenAI and DeepSeek), it identifies potential crash causes such as deadlocks, memory issues, or driver errors, and generates a detailed HTML report.
+KdumpAIG is a Python-based AI agent designed to automate the analysis of Linux kernel crash dumps (kdump vmcore files) on Linux systems. By leveraging AI models (currently supporting Azure OpenAI and DeepSeek), it identifies potential crash causes such as deadlocks, memory issues, or driver errors, and generates a detailed HTML report.
 
 The tool collects critical system data using the `crash` utility, including system info, memory usage, backtraces, process states, run queues, device statistics, kernel logs, and more. The AI then analyzes this data to provide a preliminary conclusion with actionable recommendations.
 
 ## Features
 
-- **Quick Analysis**: With new architect it captures Linux kernel data much faster even wthin one minute. 
-- **Automated Analysis**: Processes kdump vmcore files with a single command.
+- **Fast Data Collection**: Optimized architecture enables kernel data capture in under one minute. 
+- **Automated Analysis**: Process kdump vmcore files automatically with minimal user intervention.
 - **AI-Powered Insights**: Integrates with Azure OpenAI or DeepSeek for intelligent crash analysis.
-- **Comprehensive Data Collection**: Uses a rich set of `crash` commands to gather system state.
 - **HTML Reporting**: Outputs results in an easy-to-read HTML format.
-- **Linux Compatibility**: Supports most Linux distributions and kernel versions. 
+- **Linux Compatibility**: Supports most Linux distributions and kernel versions.
 
 ## Prerequisites
 - Python 3+

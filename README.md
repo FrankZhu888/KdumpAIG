@@ -11,7 +11,7 @@ The tool collects critical system data using the `crash` utility, including syst
 
 - **Fast Data Collection**: Optimized architecture enables kernel data capture in under one minute. 
 - **Automated Analysis**: Process kdump vmcore files automatically with minimal user intervention.
-- **AI-Powered Insights**: Integrates with Azure OpenAI or DeepSeek for intelligent crash analysis, or any other AI models.
+- **AI-Powered Insights**: Integrates with Azure OpenAI or DeepSeek for intelligent crash analysis, or any other AI models like Doubao-Seed etc.
 - **HTML Reporting**: Outputs results in an easy-to-read HTML format.
 - **Linux Compatibility**: Supports most Linux distributions and kernel versions.
 
@@ -43,10 +43,10 @@ Edit KdumpAIG.py to update AI_API_KEY, AI_API_URL and MODEL_NAME with your crede
 ## Example
 `# ./KdumpAIG.py --vmcore /var/crash/127.0.0.1-2025-10-16-19\:15\:59/vmcore --vmlinux /usr/lib/debug/lib/modules/5.14.0-284.118.1.el9_2.x86_64/vmlinux` 
 
-Azure OpenAI:
+Azure OpenAI GPT-5:
 <img width="1271" height="418" alt="截屏2025-10-28 12 31 52" src="https://github.com/user-attachments/assets/7243d3d4-58fb-4e46-b7d3-bb3dd50eb953" />
 
-DeepSeek R1:
+DeepSeek R1 250528:
 <img width="1227" height="374" alt="截屏2025-10-28 12 25 37" src="https://github.com/user-attachments/assets/3aa3cca5-8d5d-4619-a24a-72f4ef1e4036" />
 
 

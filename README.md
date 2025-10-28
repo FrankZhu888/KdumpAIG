@@ -1,5 +1,5 @@
 # KdumpAIG - Universal Linux Kernel Crash Analyzer with AI Integration
-KdumpAIG is a next‑generation AI agent for Linux kdump analysis. The "G" stands for General – it works across a wide range of Linux distributions and kernel versions.
+KdumpAIG is a next‑generation AI agent for Linux kdump analysis. The "G" stands for General – it works across a wide range of Linux distributions and kernel versions, and supports most AI models. 
 
 ## Overview
 

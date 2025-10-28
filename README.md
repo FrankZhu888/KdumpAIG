@@ -11,7 +11,7 @@ The tool collects critical system data using the `crash` utility, including syst
 
 - **Fast Data Collection**: Optimized architecture enables kernel data capture in under one minute. 
 - **Automated Analysis**: Process kdump vmcore files automatically with minimal user intervention.
-- **AI-Powered Insights**: Integrates with Azure OpenAI or DeepSeek for intelligent crash analysis.
+- **AI-Powered Insights**: Integrates with Azure OpenAI or DeepSeek for intelligent crash analysis, or any other AI models.
 - **HTML Reporting**: Outputs results in an easy-to-read HTML format.
 - **Linux Compatibility**: Supports most Linux distributions and kernel versions.
 

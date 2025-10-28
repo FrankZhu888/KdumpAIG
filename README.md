@@ -39,6 +39,7 @@ Edit KdumpAIG.py to update AI_API_KEY, AI_API_URL and MODEL_NAME with your crede
 
 ## Usage
 `#./KdumpAIG.py --vmcore <vmcore_path> --vmlinux <vmlinux_path> [--output <output_html>]`
+<img width="1235" height="817" alt="截屏2025-10-28 12 15 02" src="https://github.com/user-attachments/assets/25aae576-9725-426e-b045-c13cf65542a0" />
 
 ## Example
 `# ./KdumpAIG.py --vmcore /var/crash/127.0.0.1-2025-03-13-14\:50\:01/vmcore --vmlinux /usr/lib/debug/lib/modules/5.14.0-503.26.1.el9_5.x86_64/vmlinux` 

@@ -42,11 +42,13 @@ Edit KdumpAIG.py to update AI_API_KEY, AI_API_URL and MODEL_NAME with your crede
 <img width="1235" height="817" alt="截屏2025-10-28 12 15 02" src="https://github.com/user-attachments/assets/25aae576-9725-426e-b045-c13cf65542a0" />
 
 ## Example
-`# ./KdumpAIG.py --vmcore /var/crash/127.0.0.1-2025-03-13-14\:50\:01/vmcore --vmlinux /usr/lib/debug/lib/modules/5.14.0-503.26.1.el9_5.x86_64/vmlinux` 
+`# ./KdumpAIG.py --vmcore /var/crash/127.0.0.1-2025-10-16-19\:15\:59/vmcore --vmlinux /usr/lib/debug/lib/modules/5.14.0-284.118.1.el9_2.x86_64/vmlinux` 
 
 Azure OpenAI:
+<img width="1271" height="418" alt="截屏2025-10-28 12 31 52" src="https://github.com/user-attachments/assets/7243d3d4-58fb-4e46-b7d3-bb3dd50eb953" />
 
 DeepSeek R1:
+<img width="1227" height="374" alt="截屏2025-10-28 12 25 37" src="https://github.com/user-attachments/assets/3aa3cca5-8d5d-4619-a24a-72f4ef1e4036" />
 
 
 ## Analysis Report
@@ -56,6 +58,7 @@ Azure OpenAI:
 
 
 DeepSeek R1:
+<img width="1840" height="1103" alt="截屏2025-10-28 12 28 02" src="https://github.com/user-attachments/assets/7b92a2ad-6c68-4473-8710-99d7857ed092" />
 
 
 

@@ -57,7 +57,7 @@ Notes:
       * Azure OpenAI:   https://URI/chat/completions?api-version=2024-02-15-preview
       * DeepSeek:       https://URI/chat/completions
 
-Support Contact: Frank Zhu <zhuzhenquan@bytedance.com>   ByteDance Volcano Engine Cloud Team
+Support Contact: Frank Zhu <flankeroot@gmail.com>   
     """
     print(usage)
 
